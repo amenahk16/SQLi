@@ -14,9 +14,9 @@ SQLi is an open-source tool used in penetration testing to detect and exploit SQ
 
 
 
-This work created by 
-Aminah Abdullah - Wasmiyah Alqahtani - Jana Alansari 
+This work created by : Aminah Abdullah - Wasmiyah Alqahtani - Jana Alansari 
 
-Credit: 
-Rockikz @x4nth055 for source code and implemention 
+
+Credit: Rockikz @x4nth055 for source code and implementation 
+
 HitmanAlharbi @HitmanF15 for payloads file 
