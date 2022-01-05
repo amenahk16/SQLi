@@ -5,13 +5,9 @@ SQLi tool created with python in order to scan web urls from sql injection vulne
 
 
 example to check  http://testphp.vulnweb.com/artists.php?artist=1 from vulnerabilities 
---------------------------------------------------------------------------------------
-python3 SQLi.py  http://testphp.vulnweb.com/artists.php?artist=1  
 
-SQLi is an open-source tool used in penetration testing to detect and exploit SQL injection flaws. SQLi automates the process of detecting and exploiting SQL injection. SQL Injection attacks can take control of databases that utilize SQL. They can affect any website or web app that may have a SQL database linked to it, such as MySQL, SQL Server, Oracle and many others.
 
-[+] SQL Injection vulnerability detected, link: http://testphp.vulnweb.com/artists.php?artist=1"\
-
+<img width="1207" alt="Screen Shot 1443-06-02 at 5 13 34 PM" src="https://user-images.githubusercontent.com/56893695/148232310-e374581e-2a7a-44f1-8d28-3d3415f822fd.png">
 
 
 This work created by : Aminah Abdullah - Wasmiyah Alqahtani - Jana Alansari 
